@@ -68,7 +68,7 @@ This project is for learning purposes only.
 
 &#x20; <img src="1.png" width="45%"/>
 
-&#x20; <img src="3.png" width="45%"/>
+&#x20; <img src="2.png" width="45%"/>
 
 </p>
 
@@ -82,5 +82,12 @@ This project is for learning purposes only.
 
 </p>
 
+## 📬 Contact
 
+Connect with me via:  
+📧 **khanhvy0946265560@gmail.com**
+
+---
+
+© 2026 khanhvy0908
 
