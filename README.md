@@ -13,9 +13,9 @@ This project is a practice website built during my learning process.
 - Bootstrap 5
 
 ## 📁 Project Structure
-index.html
-index.css
-image/
+- index.html
+- index.css
+- image/
 
 
 ## 🎯 What I learned
